@@ -1,4 +1,4 @@
-# Hi My name is Luan Thomaz
+# Hi! I'm Luan Thomaz
 
 ## Some things cool or not about me 
 
