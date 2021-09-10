@@ -1,9 +1,10 @@
 # Hi My name is Luan Thomaz
 
-## Somethings cool or not about me 
+## Some things cool or not about me 
 
-🖥️ I work With Front-End and a little bit with Back-End _But I want dev to mobile and games_<br>
+🖥️ I work with Front-End and a little bit with Back-End _But I want to learn to dev for mobile and games to_<br>
 ⚽ I'm fan of soccer ball and I LOVE São Paulo Futebol Clube _ˢᵖᶠᶜ_<br>
+📚 _Just a note_ **Never Stop Learn**
  <div>
   <a href="https://github.com/Thomazl"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomazl&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
@@ -12,7 +13,8 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<span style=" font-size: 18px; color: #ffffff;">Some things I know</span><br>
+<div style="display: inline_block">
     <img align="center" alt="Icon-Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Icon-Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Icon-Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,11 +39,12 @@
     <img align="center" alt="Icon-Luan-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Icon-Luan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
-<footer style="margin-top: 15px;">
-    <img src="https://img.shields.io/github/followers/Thomazl.svg?style=social&label=Follow&maxAge=2592000">
-    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-</footer>
 
-
+##
 
 ![Snake animation](https://github.com/Thomazl/Thomazl/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+    <img src="https://img.shields.io/github/followers/Thomazl.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+</div>
