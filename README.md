@@ -1,9 +1,11 @@
-# Hi! I'm Luan Thomaz
+# Hello World!
 
-## Some things cool or not about me 
+#### Hi! I'm Luan Thomaz
 
-🖥️ I work with Front-End and a little bit with Back-End _But I want to learn to dev for mobile and games to_<br>
-⚽ I'm fan of soccer ball and I LOVE São Paulo Futebol Clube _ˢᵖᶠᶜ_<br>
+#### Some things cool or not about me 
+
+🖥️ I currently working at OficialFarma as an Front-End dev<br>
+💭 _And I want to learn to dev for mobile and games to_<br>
 📚 _Just a note_ **Never Stop Learn**
  <div>
   <a href="https://github.com/Thomazl"></a>
