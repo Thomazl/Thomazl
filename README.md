@@ -4,7 +4,7 @@
 
 #### I love programming, and learning new things.
 
-🖥️ I currently working at OficialFarma as an Front-End dev<br />
+
 💭 _Drink water will help_<br />
 📚 _Just a note_ **Never Stop Learn**
  <div>
@@ -18,18 +18,18 @@
     <img align="center" alt="Icon-Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Icon-Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Icon-Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Icon-Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Icon-Luan-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Icon-Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Icon-Luan-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Icon-Luan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Icon-Luan-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
 <br />
 <span style=" font-size: 18px; color: #ffffff;">Next step on my study</span><br/>
 <div style="display: inline-block">
     <img align="center" alt="Icon-Luan-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Icon-Luan-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Icon-Luan-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Icon-Luan-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="Icon-Luan-ThreeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
 </div>
@@ -37,7 +37,6 @@
 <br />
 <span style=" font-size: 18px; color: #ffffff;">I want to learn this to for knowledge</span><br/>
 <div style=" display: inline-block;">
-    <img align="center" alt="Icon-Luan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Icon-Luan-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Icon-Luan-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
     <img align="center" alt="Icon-Luan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
