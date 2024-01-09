@@ -52,7 +52,9 @@
 </div>
 
 <br />
-![Snake animation](https://github.com/Thomazl/Thomazl/blob/output/github-contribution-grid-snake.svg)
+
+### Contribution Graph
+<img src="https://github.com/Thomazl/Thomazl/blob/output/github-contribution-grid-snake.svg"/>
 
 <div>
     <img src="https://img.shields.io/github/followers/Thomazl.svg?style=social&label=Follow&maxAge=2592000">
