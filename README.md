@@ -53,9 +53,6 @@
 
 <br />
 
-### Contribution Graph
-<img src="https://github.com/Thomazl/Thomazl/blob/output/github-contribution-grid-snake.svg"/>
-
 <div>
     <img src="https://img.shields.io/github/followers/Thomazl.svg?style=social&label=Follow&maxAge=2592000">
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
